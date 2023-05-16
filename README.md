@@ -2,9 +2,9 @@
 
 ## Presentaciones
 
-- [Presentación Xaringan](https://haydeeperuyero.github.io/Xaringan_RLadies/xaringan.html)
-- [Ejemplo Quarto](https://haydeeperuyero.github.io/Xaringan_RLadies/revealjs.html)
-- [Tutorial Xaringan](https://haydeeperuyero.github.io/Xaringan_RLadies/tutorial/ejemplo-diapositivas-xaringan.html)
+- [Presentación Xaringan](https://r-ladies-morelia.github.io/Xaringan_RLadies2023/xaringan.html)
+- [Ejemplo Quarto](https://r-ladies-morelia.github.io/Xaringan_RLadies2023/revealjs.html)
+- [Tutorial Xaringan](https://r-ladies-morelia.github.io/Xaringan_RLadies2023/tutorial/ejemplo-diapositivas-xaringan.html)
 
 
 ## **Xaringan y Quarto js**
