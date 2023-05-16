@@ -1,5 +1,3 @@
-# Xaringan_RLadies
-
 ## Presentaciones
 
 - [Presentación Xaringan](https://r-ladies-morelia.github.io/Xaringan_RLadies2023/xaringan.html)
